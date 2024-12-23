@@ -1,0 +1,5 @@
+51.89.237.222
+
+root
+accesodenegado
+dbsrvregventas
